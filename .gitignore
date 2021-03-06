@@ -339,4 +339,6 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-Physiocare_Bill_Format.xlsx
+
+# Untracked files
+#C:/Users/akash/source/repos/Physiocare/Physiocare_Bill_Format.xlsx
